@@ -1,0 +1,15 @@
+# AI Provider API Keys
+# Get these from the respective dashboards
+
+# Together AI (FREE tier - includes Flux Schnell)
+TOGETHER_API_KEY=your-together-ai-key-here
+
+# Fal.ai ($10 free credits)
+FAL_KEY=your-fal-key-here
+
+# OpenAI (for DALL-E 3)
+OPENAI_API_KEY=your-openai-key-here
+
+# Optional: Add more providers as needed
+REPLICATE_API_TOKEN=your-replicate-token
+STABILITY_API_KEY=your-stability-key
