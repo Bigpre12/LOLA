@@ -37,7 +37,7 @@ const nextConfig = {
       },
     ],
   },
-  // Output standalone for Railway
+  // Output standalone for Cloud Run
   output: 'standalone',
 };
 
